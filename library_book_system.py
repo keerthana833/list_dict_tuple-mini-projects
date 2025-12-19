@@ -6,7 +6,7 @@ while True:
     print("3.Return Books")
     print("4.Exit")
 
-    choice=input("Enter your choice: ")
+    choice=int(input("Enter your choice: "))
     
 
     if choice==1:
